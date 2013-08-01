@@ -1,0 +1,14 @@
+/bin/
+/build/
+/include/
+/lib/
+/man/
+/share/
+.Python
+*.pyc
+*.db
+*~
+*.swp
+.idea
+
+eventex/static
